@@ -24,3 +24,7 @@ C:\TINY> TINY
 
 Keep `TINY.EXE` and `TINY.BIN` in the same folder. To rebuild:
 `TCC -ml TINY.C`
+
+In a browser: serve this folder (e.g. `python3 -m http.server`) and open
+`index.html`, the same network in JavaScript, with a letter x-ray that
+shows the other letters TINY weighed.
