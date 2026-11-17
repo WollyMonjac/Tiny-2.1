@@ -24,3 +24,5 @@ C:\TINY> TINY
 
 Keep `TINY.EXE` and `TINY.BIN` in the same folder. To rebuild:
 `TCC -ml TINY.C`
+
+On a Mac: `./build.sh` and `./tiny`, see [README-MAC.md](README-MAC.md).
