@@ -8,7 +8,7 @@ Pentium or 486DX under plain DOS and fits on a floppy disk.
 - 367,000 parameters: 4 layers, 96 wide, reads and writes letter by letter
 - 8-bit weights (one scale per row), 380 KB in all
 - Needs about 540 KB of free conventional memory
-- Trained on about 3,500 facts, each asked in many wordings
+- Trained on about 3,500 facts, each asked in many wordings.
   Outside those it makes things up confidently
 - Neon full-screen interface with a live neural monitor and a PC-speaker
   robot voice
